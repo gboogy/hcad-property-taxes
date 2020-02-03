@@ -4,7 +4,7 @@
 <!-- LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/gboogy/hcad-property-taxes">
+  <a href="https://en.wikipedia.org/wiki/Harris_County,_Texas">
     <img src="images/hctx-logo.png" alt="Logo" width="200" height="200">
   </a>
 
